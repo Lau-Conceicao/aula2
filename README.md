@@ -1,2 +1,2 @@
-# aula2
-aula 2 Curso de Front_End
+# Projeto Aula2
+Aula 2 do Curso de Front-End Awari. 
